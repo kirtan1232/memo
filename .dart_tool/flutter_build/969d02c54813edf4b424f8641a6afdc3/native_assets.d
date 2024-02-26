@@ -1,0 +1,1 @@
+ C:\\Users\\User\\Music\\X-NotePad\\.dart_tool\\flutter_build\\969d02c54813edf4b424f8641a6afdc3\\native_assets.yaml: 
